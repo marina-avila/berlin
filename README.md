@@ -9,3 +9,5 @@ First Push ;)
 ![image of classic](images/classic.jpg)
 
 hello!
+
+![image of classic](images/pretty.png)

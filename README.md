@@ -5,4 +5,5 @@ Coding for artists &lt;3
 Fun fun fun fuuuuuuun!
 
 First Push ;)
+
 ![image of classic](images/classic.jpg)
